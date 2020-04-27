@@ -1,0 +1,2 @@
+This program prompts the user to enter a monthly saving amount and displays the 
+account value after the sixth month.

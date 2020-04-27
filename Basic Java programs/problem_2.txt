@@ -1,0 +1,2 @@
+This program displays all the numbers from 100 to 1,000 (8 per line) 
+that are divisible by 4 and 6

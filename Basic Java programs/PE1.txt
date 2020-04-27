@@ -1,0 +1,1 @@
+This program determines the change to be dispensed from a vending machine

@@ -1,0 +1,2 @@
+This programs reads a Celsius degree in a double value from the console, 
+then converts it to Fahrenheit

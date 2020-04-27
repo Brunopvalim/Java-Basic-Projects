@@ -1,0 +1,2 @@
+This program computes future investment value at a given interest rate 
+for a specified number of years.

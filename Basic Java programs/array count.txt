@@ -1,0 +1,1 @@
+This program reads the integers between 1 and 100 and counts the occurrences of each

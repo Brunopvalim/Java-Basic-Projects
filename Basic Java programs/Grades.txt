@@ -1,0 +1,1 @@
+THis program reads student scores, gets the best score, and then assigns grades

@@ -1,0 +1,1 @@
+This program calculates the tuition in ten years with 5% interest and its total

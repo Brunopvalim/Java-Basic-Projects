@@ -1,0 +1,2 @@
+This program prompts the user to enter an integer from 1 to N and 
+displays a pyramid

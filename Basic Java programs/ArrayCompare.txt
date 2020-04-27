@@ -1,0 +1,1 @@
+This program compares 2 arrays and checks if they are strictly identical
